@@ -96,7 +96,11 @@ def changing_alan
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
+<<<<<<< HEAD
         },
+=======
+        }
+>>>>>>> 8efde24927e849c1d694ff1ef53bb99631782594
 
 			}
 
@@ -104,7 +108,10 @@ def changing_alan
 
 		 programmer_hash[:alan_kay][:known_for] = alans_new_info
 
+<<<<<<< HEAD
 		 programmer_hash
+=======
+>>>>>>> 8efde24927e849c1d694ff1ef53bb99631782594
 
 end
 
